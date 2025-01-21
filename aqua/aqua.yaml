@@ -17,3 +17,4 @@ packages:
 - name: go-task/task@v3.39.2
 - name: nektos/act@v0.2.68
 - name: tfutils/tfenv@v3.0.0
+- name: minamijoyo/tfupdate@v0.8.5
